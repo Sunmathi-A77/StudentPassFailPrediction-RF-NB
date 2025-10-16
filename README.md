@@ -9,6 +9,7 @@ The Student Performance Predictor is a web application built with Streamlit that
 ## App Screenshot
 
 <img src="https://github.com/user-attachments/assets/71576c9a-ad71-4d10-aeb0-5a8c7e871f3a" alt="App Screenshot" width="300">
+
 <img src="https://github.com/user-attachments/assets/62f257db-7ee8-4f0f-98a9-1711fcfe6157" alt="Screenshot 2" width="300">
 
 ## 🛠️ Technologies Used
