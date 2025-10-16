@@ -6,9 +6,9 @@ The Student Performance Predictor is a web application built with Streamlit that
 
 🌐 Live App: https://studentpassfailprediction-rf-nb.streamlit.app/
 
-![WhatsApp Image 2025-10-16 at 23 29 31_691244a9](https://github.com/user-attachments/assets/5e871ba7-8f80-4580-a43c-766b8e11dd7b)
+## App Screenshot
 
-![WhatsApp Image 2025-10-16 at 23 29 31_ce880332](https://github.com/user-attachments/assets/6a179411-0724-4937-921c-604a40082a45)
+<img src="https://github.com/user-attachments/assets/71576c9a-ad71-4d10-aeb0-5a8c7e871f3a" alt="App Screenshot" width="600">
 
 ## 🛠️ Technologies Used
 
