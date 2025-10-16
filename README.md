@@ -118,12 +118,12 @@ Random Forest is chosen for deployment due to perfect accuracy and robustness.
 
 ## 📁 Project Structure
 
-├── requirements.txt        # Dependencies
+├── requirements.txt               # Dependencies
 
-├── dataset.csv             # Kaggle dataset (optional)
+├── dataset.csv                    # Kaggle dataset (optional)
 
-├── random_forest_model.pkl # Saved Random Forest model
+├── random_forest_model.pkl        # Saved Random Forest model
 
-├── app.py                  # Streamlit web app
+├── app.py                         # Streamlit web app
 
-├── README.md               # Documentation
+├── README.md                      # Documentation
