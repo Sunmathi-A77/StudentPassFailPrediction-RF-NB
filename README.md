@@ -103,11 +103,10 @@ Added footer with creator info.
 
 ## 📊 Model Results
 
-Model	          Accuracy	Precision	  Recall	   F1-Score
-
-Random Forest	  1.00	    1.00	      1.00	    1.00
-
-Naive Bayes	    0.98	    0.98	      0.98	    0.98
+| Model         | Accuracy | Precision | Recall | F1-Score |
+| ------------- | -------- | --------- | ------ | -------- |
+| Random Forest | 1.00     | 1.00      | 1.00   | 1.00     |
+| Naive Bayes   | 0.98     | 0.98      | 0.98   | 0.98     |
 
 Random Forest Confusion Matrix:
 
@@ -118,12 +117,11 @@ Random Forest is chosen for deployment due to perfect accuracy and robustness.
 
 ## 📁 Project Structure
 
-├── requirements.txt               # Dependencies
+| File Name                 | Description               |
+| ------------------------- | ------------------------- |
+| `requirements.txt`        | Dependencies              |
+| `dataset.csv`             | Kaggle dataset (optional) |
+| `random_forest_model.pkl` | Saved Random Forest model |
+| `app.py`                  | Streamlit web app         |
+| `README.md`               | Project documentation     |
 
-├── dataset.csv                    # Kaggle dataset (optional)
-
-├── random_forest_model.pkl        # Saved Random Forest model
-
-├── app.py                         # Streamlit web app
-
-├── README.md                      # Documentation
